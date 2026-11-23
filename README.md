@@ -64,7 +64,7 @@ Repository Link: https://github.com/nazlinupdul53-arch/SpendWise-Budget-Manageme
 
 ## Live Website
 
-Netlify Deployment Link: https://incomparable-twilight-612210.netlify.app
+Netlify Deployment Link: https://spendwise-financial-manager.netlify.app
 
 ## Deployment Summary
 
@@ -76,3 +76,4 @@ Through this project, I improved my understanding of HTML, CSS and JavaScript. I
 
 
 I also gained experience preparing a project for deployment using GitHub and Netlify.
+
