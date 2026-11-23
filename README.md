@@ -56,22 +56,23 @@ Another challenge was ensuring that the dashboard updates whenever a user adds a
 - JavaScript
 - Browser localStorage
 
-# GitHub Repository
+## GitHub Repository
 
 The complete source code for this project is available on GitHub.
 
-**Repository Link:** To be added after creating the GitHub repository.
+Repository Link: https://github.com/nazlinupdul53-arch/SpendWise-Budget-Management
 
-# Live Website
+## Live Website
 
-**Netlify Deployment Link:** To be added after deploying the application.
+Netlify Deployment Link: https://incomparable-twilight-612210.netlify.app
 
-# Deployment Summary
+## Deployment Summary
 
-The SpendWise application will be deployed using Netlify, connected to its GitHub repository. This will allow the website to be hosted online and automatically updated whenever changes are pushed to the GitHub repository.
+The SpendWise application was successfully deployed using Netlify and made publicly accessible online. The project files are stored in a GitHub repository. The deployment process helped me practise version control, website hosting and deployment management.
 
 # Lessons Learned
 
-Through this project, I improved my understanding of HTML, CSS, and JavaScript. I learned how to create an interactive web application, manipulate webpage elements using the DOM, handle user input, validate data, and store information using browser localStorage.
+Through this project, I improved my understanding of HTML, CSS and JavaScript. I learned how to create an interactive web application, manipulate webpage elements using the DOM, handle user input, validate data and store information using browser localStorage.
+
 
 I also gained experience preparing a project for deployment using GitHub and Netlify.
